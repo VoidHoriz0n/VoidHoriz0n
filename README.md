@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 </div>
   
    
-  ![Snake animation](https://github.com/VoidHoriz0n/VoidHoriz0n/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VoidHoriz0n/VoidHoriz0n/blob/output/github-contribution-grid-snake.svg)
  
 </div>
