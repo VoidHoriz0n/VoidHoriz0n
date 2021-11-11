@@ -1,6 +1,12 @@
 ### Olá bem-vindo(a) a este perfil. 👋
 
-- 🔭 Atualmente estudando Python, php e mysql ...
+- 🔭 Atualmente estudando... Python, MySQL e Programação WEB (PhP, Css, Html5 e js) ...
+-   🔬Python
+-   🔬MySQL
+-   🔬PhP
+-   🔬JavaScript
+-   🔬Html5
+-   🔬Css
 <!--
 **VoidHoriz0n/VoidHoriz0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
