@@ -1,7 +1,6 @@
 ### Olá bem-vindo(a) a este perfil. 👋
 
 - 🔭 Atualmente estudando...
--   🔬Python
 -   🔬MySQL
 -   🔬PhP
 -   🔬JavaScript
