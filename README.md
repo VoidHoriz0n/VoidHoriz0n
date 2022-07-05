@@ -1,8 +1,10 @@
 ### Olá bem-vindo(a) a este perfil. 👋
 
 - 🔭 Atualmente estudando...
--   🔬Web Developer
--  
+-   🔬 Web Developer
+-   ✨ MySQL developer
+
+
 <!--
 **VoidHoriz0n/VoidHoriz0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
